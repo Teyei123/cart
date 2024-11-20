@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Timberland Heels",
+        "price": 110000,
+        "image": "heel.png"
+    },
+    {
+        "id": 2,
+        "name":" Ladies Shoe",
+        "price": 50000,
+        "image": "heels.png"
+    },
+    {
+        "id": 3,
+        "name":" Ladies Heels",
+        "price": 90000,
+        "image": "female.png"
+    },
+    {
+        "id": 4,
+        "name":" Timberland Heels",
+        "price": 100500,
+        "image": "timboots.png"
+    },
+    {
+        "id": 5,
+        "name":" Chelsea Boots",
+        "price": 65000,
+        "image": "chelseaboots.png"
+    },
+    {
+        "id": 6,
+        "name":" Airforce One",
+        "price": 70000,
+        "image": "airforce.png"
+    },
+    {
+        "id": 7,
+        "name":" Timberland Boots",
+        "price": 95000,
+        "image": "timberland.png"
+    },
+    {
+        "id": 8,
+        "name":" Air Jordan 04",
+        "price": 100500,
+        "image": "jordans.png"
+    }
+
+]
